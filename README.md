@@ -10,9 +10,10 @@
       pip install python-docx
       pip install argparse3
       
- -> type them in command line one by one to install
-      
 3. Open your command line      
+ 
+ -> type them in command line one by one to install
+           
 4. Run the code
 
 ### How to Run the Code
