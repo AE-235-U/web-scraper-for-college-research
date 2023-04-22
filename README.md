@@ -6,9 +6,8 @@
      
 ### How to Download Libraries     
 
-      pip install requests
       pip install beautifulsoup4
-      pip install docx
+      pip install python-docx
       pip install argparse3
       
  -> type them in command line one by one to install
